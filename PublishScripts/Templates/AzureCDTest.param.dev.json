@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "AzureCDTest"
+  },
+  "hostingPlanName": {
+    "value": "ACDTPlan"
+  },
+  "siteLocation": {
+    "value": "Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "2beccad7-7bab-4fe0-b57f-12cd98dd1b92"
+  },
+  "resourceGroup": {
+    "value": "cd-resource-group"
+  }
+}

@@ -28,7 +28,7 @@
         </div>
       </nav>
       <div class="jumbotron">
-        <p>Simple json getter for weather underground</p>
+        <p>Simple json page for weather underground</p>
           <div class="form-group">
             <label>City: </label>
             <asp:TextBox CssClass="form-control" ID="city" runat="server"></asp:TextBox>
